@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             
-            // Anton Hansson SUT23
+            // Anton Hansson SUT23.
 
             Random random = new Random();
             bool playAgain = true; 
