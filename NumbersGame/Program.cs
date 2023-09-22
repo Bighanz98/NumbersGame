@@ -28,7 +28,7 @@
                     catch(FormatException) 
                     {
                         Console.ForegroundColor= ConsoleColor.Red;
-                        Console.WriteLine("ERROR! Du måse skriva ett nummer!"); // Felmeddelandet som skrivs ut i konsolen.
+                        Console.WriteLine("ERROR! Du måste skriva ett nummer!"); // Felmeddelandet som skrivs ut i konsolen.
                         Console.ResetColor();
                         continue;
                     }
